@@ -27,9 +27,12 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## <img width=25 src='https://user-images.githubusercontent.com/8226984/227711181-657e2c9a-5f32-48e0-b618-a922c4fb10d4.png'>Connect with me
+## Connect with me
 
-- <a href='https://twitter.com/jean_m_gomes'>X (Former Twitter)</a>
+- <a href='https://x.com/quy120202'>X (Former Twitter)</a>
+- [X (Former Twitter)](https://x.com/quy120202)
+- [Facebook](https://www.facebook.com/quy120202)
+
 
 <p align='center'>
 “You can be anything you want to be"
