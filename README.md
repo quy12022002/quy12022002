@@ -1,10 +1,10 @@
 ## <img width=25 src='https://user-images.githubusercontent.com/8226984/227712105-a9bdb9d1-62a8-400c-bc2d-4723de5f4e52.png'> Brief Description
 
-- 👋 Hi, I’m @quy12022002 - Q U Y
-- 👩🏻‍💻 I’m a fresher developer with a strong emphasis on backend development
+- 👋 Hi, I’m @quy12022002 - Q U Y 🎉
+- 👩🏻‍💻 I’m a fresher developer with a strong emphasis on backend development 
 - 👀 I’m interested in Computational Sciences, Math, Physics and Astrophysics 
-- 🌱 I’m continuously learning Algorithms, Physics, Astrophysics, Fortran, ...
-- 💞️ I’m looking to collaborate for full-stack related projects
+- 📖 I’m continuously learning Algorithms, Physics, Astrophysics, Fortran, ... 
+- 💞️ I’m looking to collaborate for full-stack related projects 
 - 📫 How to easily reach me? Drop me a line at liar12022002@gmail.com.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -29,12 +29,12 @@
 
 ## Connect with me
 
-- [X (Former Twitter)](https://x.com/quy120202)
 - [Facebook](https://www.facebook.com/quy120202)
+- [X (Former Twitter)](https://x.com/quy120202)
 
 
 <p align='center'>
-“You can be anything you want to be"
+“Thank you for visiting my profile 🫂”
 </p>
 
 <!---
