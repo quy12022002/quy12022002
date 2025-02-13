@@ -29,7 +29,6 @@
 
 ## Connect with me
 
-- <a href='https://x.com/quy120202'>X (Former Twitter)</a>
 - [X (Former Twitter)](https://x.com/quy120202)
 - [Facebook](https://www.facebook.com/quy120202)
 
@@ -39,6 +38,6 @@
 </p>
 
 <!---
-neutrinomuon/neutrinomuon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+quy12022002/quy12022002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
