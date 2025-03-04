@@ -31,7 +31,6 @@
 ## Connect with me
 
 - [Facebook](https://www.facebook.com/quy120202)
-- [X (Former Twitter)](https://x.com/quy120202)
 
 
 <p align='center'>
