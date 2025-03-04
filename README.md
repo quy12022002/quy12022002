@@ -1,4 +1,4 @@
-## <img width=25 src='https://user-images.githubusercontent.com/8226984/227712105-a9bdb9d1-62a8-400c-bc2d-4723de5f4e52.png'> Brief Description
+## <a href="#"><img width=25 src='https://user-images.githubusercontent.com/8226984/227712105-a9bdb9d1-62a8-400c-bc2d-4723de5f4e52.png'></a> Brief Description
 
 - 👋 Hi, I’m @quy12022002 - Q U Y 🎉
 - 👩🏻‍💻 I’m a web developer with a strong emphasis on backend development 
